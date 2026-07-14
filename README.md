@@ -24,7 +24,3 @@ Digital twin research in the first half, applied AI in the second.
 
 ## 📌 Featured projects
 Check out my pinned repos below ⬇️
-
-## 📫 Reach me
-
-[LinkedIn](https://www.linkedin.com/in/vishal-chaudhari-679940257)
