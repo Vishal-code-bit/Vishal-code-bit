@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋
 
-<!--
-**Vishal-code-bit/Vishal-code-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science & Software Engineering student at the University of Birmingham, Dubai — building at the intersection of frontend engineering and applied AI.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Building out my personal portfolio (React + Tailwind CSS)
+- Going deeper into LLMs, AI agents, and modern AI tooling
+- Open to AI & Software Engineering internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+**Languages:** TypeScript · JavaScript · Python · C++ · SQL
+**Frontend:** React · React Native · Tailwind CSS · HTML5 · CSS3
+**Data & ML:** pandas · scikit-learn · NumPy
+**Foundations:** Data Structures · Git · Computer Networks
+
+## 💼 Experience
+
+**Dorz** — Software Development Intern (3 months)
+Designed the UI/UX in Canva and built the front-end of an in-app taxi-booking feature in React Native, letting users book a taxi from any provider by entering their trip details.
+
+**Lenorasoft** — Intern (1 month)
+Digital twin research in the first half, applied AI in the second.
+
+## 📌 Featured projects
+Check out my pinned repos below ⬇️
+
+## 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/vishal-chaudhari-679940257)
