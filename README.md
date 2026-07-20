@@ -9,9 +9,9 @@ Final-year Computer Science & Software Engineering student at the University of 
 
 ## 🛠️ Tech I work with
 
-**Languages:** TypeScript · JavaScript · Python · C++ · SQL
-**Frontend:** React · React Native · Tailwind CSS · HTML5 · CSS3
-**Data & ML:** pandas · scikit-learn · NumPy
+**Languages:** TypeScript · JavaScript · Python · C++ · SQL |
+**Frontend:** React · React Native · Tailwind CSS · HTML5 · CSS3 |
+**Data & ML:** pandas · scikit-learn · NumPy |
 **Foundations:** Data Structures · Git · Computer Networks
 
 ## 💼 Experience
