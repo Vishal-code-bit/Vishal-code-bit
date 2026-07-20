@@ -19,8 +19,5 @@ Final-year Computer Science & Software Engineering student at the University of 
 **Dorz** — Software Development Intern (3 months)
 Designed the UI/UX in Canva and built the front-end of an in-app taxi-booking feature in React Native, letting users book a taxi from any provider by entering their trip details.
 
-**Lenorasoft** — Intern (1 month)
+**Lenorasoft** — AI Intern (3 months)
 Digital twin research in the first half, AI with ML in the second.
-
-## 📌 Featured projects
-Check out my pinned repos below ⬇️
