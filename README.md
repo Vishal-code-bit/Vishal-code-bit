@@ -1,21 +1,13 @@
 # Hi, I'm Vishal 👋
 
-Final-year Computer Science & Software Engineering student at the University of Birmingham — building at the intersection of frontend engineering and applied AI.
+CS & Software Engineering student @ University of Birmingham — frontend + applied AI.
 
-### 🔭 Currently
-- Building out my personal portfolio (React + Tailwind CSS)
-- Going deeper into LLMs, AI agents, and modern AI tooling
-- Open to AI & Software Engineering internships
+🔨 Building my portfolio (React + Tailwind)  
+🤖 Exploring LLMs, AI agents, and modern AI tooling  
+🎯 Open to AI & Software Engineering internships  
 
-### 🛠️ Tech I work with
-**Languages:** TypeScript · JavaScript · Python · C++ · SQL |
-**Frontend:** React · React Native · Tailwind CSS · HTML5 · CSS3 |
-**Data & ML:** pandas · scikit-learn · NumPy |
-**Foundations:** Data Structures · Git · Computer Networks
+**Tech**: TypeScript, JavaScript, Python, C++, SQL · React, React Native, Tailwind, HTML/CSS · pandas, scikit-learn, NumPy · DSA, Git, Networks
 
-### 💼 Experience
-**Dorz** — Software Development Intern (3 months)
-Designed the UI/UX in Canva and built the front-end of an in-app taxi-booking feature in React Native, letting users book a taxi from any provider by entering their trip details.
-
-**Lenorasoft** — AI Intern (3 months)
-Digital twin research in the first half, AI with ML in the second.
+**Experience**:  
+• **Dorz** — Built a taxi-booking UI/UX in React Native (Canva design → frontend)  
+• **Lenorasoft** — Digital twin research + ML/AI work
