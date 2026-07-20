@@ -1,6 +1,6 @@
 # Hi, I'm Vishal 👋
 
-Final-year Computer Science & Software Engineering student at the University of Birmingham, Dubai — building at the intersection of frontend engineering and applied AI.
+Final-year Computer Science & Software Engineering student at the University of Birmingham — building at the intersection of frontend engineering and applied AI.
 
 ## 🔭 Currently
 - Building out my personal portfolio (React + Tailwind CSS)
